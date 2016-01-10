@@ -1,5 +1,5 @@
 {
-  "name": "koosh/VATUtility",
+  "name": "koosh/vat-utility",
   "description": "VAT utility to check for tax free zones in the European Union.",
   "license": "MIT",
   "require" : {
