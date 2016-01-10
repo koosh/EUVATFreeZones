@@ -10,7 +10,7 @@ Install via Composer
 ```json
 {
     "require": {
-        "koosh/VATUtility": "dev-master"
+        "koosh/vat-utility": "dev-master"
     }
 }
 ```
